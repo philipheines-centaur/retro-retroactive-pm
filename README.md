@@ -1,10 +1,8 @@
 # Retro & Retroactive Doc repo
 
-All documents related to retro and retroactive
-
 Technical Specification Document: [here](technicalspecdoc.md)
 
-### List of Tasks:
+## List of Tasks:
 
 1. [Card 1](card1.md):
 2. [Card 2](card2.md):
@@ -17,3 +15,13 @@ Technical Specification Document: [here](technicalspecdoc.md)
 9. [Card 9](card9.md):
 10. [Card 10](card10.md):
 
+## Contributors
+
+1. [Philis Heines (Product Manager)](https://github.com/philipheines-centaur)
+2. [Afeez Aziz (Senior Engineer)](https://github.com/afeezaziz)
+3. Chow Yun Soong (Engineer)
+4. Chris Larson (Engineer)
+5. Samuel Clyde (Engineer)
+6. Benjamin Jones (Engineer)
+7. William Tucker (Engineer)
+8. Chew Jing Yuan (Engineer)
