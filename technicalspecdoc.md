@@ -15,18 +15,19 @@ For git users, it follows git workflow. Nevertheless, this is for MS Office.
 
 What a user can do:
 
-1. User creates a _shared folder_ that is tracked by the system.
-2. User adds file(s) to the _shared folder_.
-3. User adds/edits remote(s) _shared folder_.
-4. User adds/edits branch(es).
-5. User adds/edits tag(s).
-6. User commits file(s) by saving the document using native MS save function.
-7. User pushes the _shared folder_ to remote(s). Optional for user: push tag and branch.
-8. Remote Retro receives the _shared folder_.
-9. User clones the _shared folder_ from remote(s).
-10. User pulls the _shared folder_ from remote(s).
-11. User merges the differences of the documents in the _shared folder_.
-12. User resolves the conflicts of the documents, if any, in the _shared folder_.
+1. User creates a _shared folder_ that is tracked by _Retro Engine_. ![drawing1](assets/drawing1.jpg)
+2. User adds file(s) to the _shared folder_. ![drawing2](assets/drawing2.jpg)
+3. User adds/edits remote(s) _shared folder_. ![drawing3](assets/drawing3.jpg) 
+4. User adds/edits branch(es). Branches allow multiple workflows and different version of document to be tracked together. ![drawing4](assets/drawing4.jpg) 
+5. User adds/edits tag(s). ![drawing5](assets/drawing5.jpg) 
+6. User commits file(s) by saving the document using native MS save function. ![drawing6](assets/drawing6.jpg) 
+7. User pushes the _shared folder_ to remote(s). Optional for user: push tag and branch. ![drawing7](assets/drawing7.jpg) 
+8. Remote Retro receives the _shared folder_. ![drawing8](assets/drawing8.jpg) 
+9. User clones the _shared folder_ from remote(s). ![drawing9](assets/drawing9.jpg) 
+10. User pulls the _shared folder_ from remote(s). ![drawing10](assets/drawing10.jpg) 
+11. User merges the differences of the documents in the _shared folder_. ![drawing11](assets/drawing11.jpg) 
+12. User resolves the conflicts of the documents, if any, in the _shared folder_. ![drawing12](assets/drawing12.jpg) 
+
 
 
 ## Background Tasks
