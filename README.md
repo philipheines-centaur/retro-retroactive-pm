@@ -1,5 +1,8 @@
 # Retro & Retroactive Doc repo
 
+Retro is a git-like utility for MS Office whereas Retroactive is the Github for
+Retro.
+
 Technical Specification Document: [here](technicalspecdoc.md)
 
 ## List of Tasks:
@@ -15,6 +18,12 @@ Technical Specification Document: [here](technicalspecdoc.md)
 9. [Card 9](cards/v1.0/card009.md): Function: initialise/clone _shared folder_.
 
 __Other cards are still in development__.
+
+## Engineers
+
+Remote team, please put your name here if you would like to make a pull request. 
+
+1.
 
 ## Contributors
 
