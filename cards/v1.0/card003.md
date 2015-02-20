@@ -2,6 +2,6 @@
 
 ### What it is?
 
-Networking
+Network configurations
 
 ### Expected milestone

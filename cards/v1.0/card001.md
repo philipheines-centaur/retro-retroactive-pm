@@ -2,6 +2,6 @@
 
 ### What it is?
 
-Office UI
+Basic UI of Retro in MS Office
 
 ### Expected milestone

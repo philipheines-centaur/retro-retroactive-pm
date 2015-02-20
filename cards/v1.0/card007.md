@@ -1,7 +1,7 @@
-# Card 6
+# Card 7
 
 ### What it is?
 
-Merge/Conflict resolve UI
+Function: Push/pull _shared folder_
 
 ### Expected milestone

@@ -2,6 +2,6 @@
 
 ### What it is?
 
-XML differential check
+Function: Check differences in XML
 
 ### Expected milestone

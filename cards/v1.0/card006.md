@@ -2,6 +2,6 @@
 
 ### What it is?
 
-Merge/Conflict resolve UI
+Merge/conflict resolve UI
 
 ### Expected milestone

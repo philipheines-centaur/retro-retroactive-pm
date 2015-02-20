@@ -1,7 +1,7 @@
-# Card 6
+# Card 8
 
 ### What it is?
 
-Merge/Conflict resolve UI
+Function: _add/commit_ XML(word/excel/document) in a different XML that contains all the differences plus metadata
 
 ### Expected milestone

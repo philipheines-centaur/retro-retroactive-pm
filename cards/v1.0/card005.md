@@ -2,6 +2,6 @@
 
 ### What it is?
 
-XML Differentials merge
+Function: Merge XML differences
 
 ### Expected milestone

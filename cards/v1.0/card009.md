@@ -1,7 +1,7 @@
-# Card 6
+# Card 9
 
 ### What it is?
 
-Merge/Conflict resolve UI
+Function: initialise/clone _shared folder_
 
 ### Expected milestone
