@@ -3,7 +3,8 @@
 Retro is a git-like utility for MS Office whereas Retroactive is the Github for
 Retro.
 
-Retro 
+Retro is still until this moment is just a MVP, we just expect that it will be
+a small utility tool. There will be more work once the MVP is ready.
 
 __Remote developers, I am still in discussion to prepare the coding cards. Will
 prepare about this ASAP.__

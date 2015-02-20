@@ -9,6 +9,8 @@ To allow Git-like functionalities to MS Word, Excel, Powerpoint users.
 
 It will run on Windows and Mac. Built entirely on Python. Differentials of XML(.docx,.pptx,.xlsx are based on) will be checked and saved by a __Retro Engine__. 
 
+We want to attack this office file format from XML point of view.
+
 ## Control Flow
 
 For git users, it follows git workflow. Nevertheless, this is for MS Office. 
