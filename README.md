@@ -15,9 +15,9 @@ Technical Specification Document: [here](technicalspecdoc.md)
 Completed Tasks:
 
 1. [Card 1](cards/v1.0/card001.md): Basic UI of Retro in MS Office 
-__COMPLETED__ by [Afeez Aziz (Senior Engineer)](https://github.com/afeezaziz)
+__COMPLETED__ by [Afeez Aziz](https://github.com/afeezaziz)
 2. [Card 6](cards/v1.0/card006.md): Merge/conflict resolve UI
-__COMPLETED__ by [Afeez Aziz (Senior Engineer)](https://github.com/afeezaziz)
+__COMPLETED__ by [Afeez Aziz](https://github.com/afeezaziz)
 
 Tasks to be completed:
 
@@ -35,7 +35,7 @@ __Other cards are still in development__.
 
 Remote team, please put your name here if you would like to make a pull request. 
 
-1.
+1. [Afeez Aziz (Onsite)](https://github.com/afeezaziz)
 
 ## Contributors
 
