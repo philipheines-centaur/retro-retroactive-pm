@@ -14,19 +14,20 @@ Technical Specification Document: [here](technicalspecdoc.md)
 ## List of Tasks:
 Completed Tasks:
 
-__NONE!__
+1. [Card 1](cards/v1.0/card001.md): Basic UI of Retro in MS Office 
+__COMPLETED__ by [Afeez Aziz (Senior Engineer)](https://github.com/afeezaziz)
+2. [Card 6](cards/v1.0/card006.md): Merge/conflict resolve UI
+__COMPLETED__ by [Afeez Aziz (Senior Engineer)](https://github.com/afeezaziz)
 
 Tasks to be completed:
 
-1. [Card 1](cards/v1.0/card001.md): Basic UI of Retro in MS Office
-2. [Card 2](cards/v1.0/card002.md): Retro Installer __NOT AVAILABLE FOR SELECTION YET__
-3. [Card 3](cards/v1.0/card003.md): Network configurations __NOT AVAILABLE FOR SELECTION YET__
-4. [Card 4](cards/v1.0/card004.md): Function: Check differences in XML __PHILIP TO DO__
-5. [Card 5](cards/v1.0/card005.md): Function: Merge XML differences __PHILIP TO DO__
-6. [Card 6](cards/v1.0/card006.md): Merge/conflict resolve UI
-7. [Card 7](cards/v1.0/card007.md): Function: Push/pull _shared folder_ __PHILIP TO DO__
-8. [Card 8](cards/v1.0/card008.md): Function: _add/commit_ XML(word/excel/document) in a different XML that contains all the differences plus metadata __PHILIP TO DO__
-9. [Card 9](cards/v1.0/card009.md): Function: initialise/clone _shared folder_. __PHILIP TO DO__
+1. [Card 2](cards/v1.0/card002.md): Retro Installer __NOT AVAILABLE FOR SELECTION YET__
+2. [Card 3](cards/v1.0/card003.md): Network configurations __NOT AVAILABLE FOR SELECTION YET__
+3. [Card 4](cards/v1.0/card004.md): Function: Check differences in XML __PHILIP TO DO__
+4. [Card 5](cards/v1.0/card005.md): Function: Merge XML differences __PHILIP TO DO__
+5. [Card 7](cards/v1.0/card007.md): Function: Push/pull _shared folder_ __PHILIP TO DO__
+6. [Card 8](cards/v1.0/card008.md): Function: _add/commit_ XML(word/excel/document) in a different XML that contains all the differences plus metadata __PHILIP TO DO__
+7. [Card 9](cards/v1.0/card009.md): Function: initialise/clone _shared folder_. __PHILIP TO DO__
 
 __Other cards are still in development__.
 
